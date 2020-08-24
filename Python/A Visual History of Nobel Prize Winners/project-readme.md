@@ -7,5 +7,7 @@ Well, let's find out! In this project, you get to explore patterns and trends ov
 Topics
 -------
 Data Manipulation
+
 Data Visualization
+
 Importing and Cleaning Data
